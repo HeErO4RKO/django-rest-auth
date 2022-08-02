@@ -1,1 +1,2 @@
-# django-auth
+# DRF-Auth
+## Basic Django Rest Auth Starter
